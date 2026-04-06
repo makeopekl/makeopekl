@@ -4,8 +4,6 @@
 
 Hope you have [cookies](https://youtu.be/yX8yrOAjfKM?t=85) enabled [🍪](https://youtu.be/yX8yrOAjfKM?t=85)
 
-<details>
-<summary>More</summary>
 
 [🌏](https://featherbear.cc/) [Website](https://featherbear.cc/)  
 [🧑](https://featherbear.cc/about) [About Me](https://featherbear.cc/about)  
@@ -17,8 +15,6 @@ Hope you have [cookies](https://youtu.be/yX8yrOAjfKM?t=85) enabled [🍪](https:
 <s>I write software and tinker with hardware related to audio, video, and networks.</s>  
 
 > **Here, <u>[click](https://featherbear.cc/about)</u>. 👈**
-</details>
-
 
 <!--
 **makeopekl/makeopekl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
